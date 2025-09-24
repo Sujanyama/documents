@@ -16,3 +16,9 @@ cidr: 10.128.0.0/14
 hostPrefix: 23
 networkType: OVNKubernetes
 serviceNetwork:
+72.30.0.0/16
+platform:
+none: {}
+fips: false
+pullSecret: ' '
+sshKey: ' '
